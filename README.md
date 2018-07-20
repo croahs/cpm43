@@ -11,7 +11,7 @@
 * RGB underglow from 14 separate WS2812B LEDs.
 * USB Type-C connector on the left side.
 * Compatible with MX and ALPS switches. 
-* Integrated Atmega32u4 microcontroller for a lower profile and easier qmk compatibility.
+* Integrated Atmega32u4 microcontroller for a lower profile and easy QMK compatibility.
 * USB ESD protection circuit.
 * ICSP programming header just in case you try something a bit too extreme and need to unbrick it.
 
